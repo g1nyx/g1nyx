@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**g1nyx/g1nyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>&#x1FABD; Giovanna </h1>
+<p> | learning 
+    <br> | she/her [pt-br + eng]
+    <br> | network analyst
+</p>
+<div style="display: flex; justify-content: flex-start; align-items: flex-start;">
+    <!-- Primeira imagem (com o texto acima) -->
+    <div style="margin-right: 20px;">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g1nyx&layout=compact&langs_count=7&theme=dracula" />
+    </div>
+    <div>
+        <img src="pixelfairy.jpeg" alt="pixelfairy" />
+    </div>
+</div>
