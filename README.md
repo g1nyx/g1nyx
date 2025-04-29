@@ -15,5 +15,5 @@
   </tr>
 </table>
 <p style="text-align: center; margin-top: 30px;">
-  <img src="purplevibe.gif" alt="Dev GIF" height="220">
+  <img src="purplevibe.gif" alt="Dev GIF" height="210">
 </p>
