@@ -5,7 +5,7 @@
               <p>  | welcome to my journey!
               <br> | learning
               <br> | she/her [pt-br + eng]
-              <br> | network analyst
+              <br> | sales prospecting
             </p>
             <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g1nyx&layout=compact&langs_count=7&theme=dracula" />
           </td>
