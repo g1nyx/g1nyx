@@ -3,7 +3,7 @@
       <td align="left">
        <table style="border: none; width: 100%;">
         <tr>
-          <td style="width: 50%; vertical-align: top; border: none;">
+          <td style="width: 100%; vertical-align: top; border: none;">
               <h1>&#x1FABD; Giovanna </h1>
               <p>  | welcome to my journey!
               <br> | learning
