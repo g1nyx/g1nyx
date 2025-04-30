@@ -6,7 +6,7 @@
         | welcome to my journey!<br>
         | learning<br>
         | she/her [pt-br + eng]<br>
-        | ex network analyst
+        | sales development representative
       </p>
     </td>
     <td style="width: 40%; text-align: right; padding: 10px;">
